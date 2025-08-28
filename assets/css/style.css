@@ -9,7 +9,7 @@ a {
 }
 
 a:hover {
-  color: #067ded;
+  color: #350101;
   text-decoration: none;
 }
 
@@ -43,7 +43,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #0678e3;
+  background: #350101;
   color: #fff;
 }
 
@@ -670,7 +670,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #148af9;
+  color: #350101;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -824,7 +824,7 @@ section {
 }
 
 .services .iconbox-blue:hover .icon path {
-  fill: #47aeff;
+  fill: #350101;
 }
 
 .services .iconbox-orange i {
@@ -1089,7 +1089,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #0678e3;
+  background: #350101;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1218,16 +1218,16 @@ section {
 }
 
 .pdfbutton:hover {
-  background-color: #5468ff; 
+  background-color: #350101; 
 }
 
 
 .portfolioprojectbutton:hover {
-  background-color: #5468ff; 
+  background-color: #350101; 
 }
 
 .collapsible:hover {
-  background-color: #5468ff; 
+  background-color: #350101; 
 }
 
 .custom-container {
